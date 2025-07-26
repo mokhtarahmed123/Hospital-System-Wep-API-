@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "E5HugLAShL4ClYIqgspqpbBdFgCay/VCD9GdOokwdw8=",
+  "Source": "HospitalAPI",
+  "BasePath": "_content/HospitalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HospitalAPI\\wwwroot",
+      "Source": "HospitalAPI",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lxdkxaswgj",
+      "Integrity": "iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "940ktek95b",
+      "Integrity": "mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lxdkxaswgj",
+      "Integrity": "iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ccsj4fbge",
+      "Integrity": "ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ccsj4fbge",
+      "Integrity": "ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\a181977c-1954-4333-9611-66de4181f434_OIP.jpg",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/a181977c-1954-4333-9611-66de4181f434_OIP#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "83ueplwi1o",
+      "Integrity": "1Dye+KOB80FuUngBBwSHx5uw5EPyOJt/q7D6ISFy/d0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\a181977c-1954-4333-9611-66de4181f434_OIP.jpg"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "940ktek95b",
+      "Integrity": "mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lxdkxaswgj",
+      "Integrity": "iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852.png",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Image/e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ccsj4fbge",
+      "Integrity": "ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852.png"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\030eb132-d104-4b7c-8b14-2f415ac616cd.jpg",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Images/030eb132-d104-4b7c-8b14-2f415ac616cd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7xoyr2xgpw",
+      "Integrity": "qwXgxKiRGz1RLm95xpn4LiiCh+I5MUvOV41djITmuDY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\030eb132-d104-4b7c-8b14-2f415ac616cd.jpg"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\6827a70b-4cb1-4689-bf1d-086c98ee7b99.jpg",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Images/6827a70b-4cb1-4689-bf1d-086c98ee7b99#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l9bzh84en1",
+      "Integrity": "N0s/FJ3BWZGV4NK4OgMR49Rnd013uxpIZGstwPH8wIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\6827a70b-4cb1-4689-bf1d-086c98ee7b99.jpg"
+    },
+    {
+      "Identity": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\7563be48-8c89-4aab-a950-1baf015a6d8b.jpg",
+      "SourceId": "HospitalAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\",
+      "BasePath": "_content/HospitalAPI",
+      "RelativePath": "Images/7563be48-8c89-4aab-a950-1baf015a6d8b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q9g8lemowl",
+      "Integrity": "om6Va6J2M+D1qGIbSFWKACJds/hgUGGVwxaII0RdjZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\7563be48-8c89-4aab-a950-1baf015a6d8b.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Image/20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630.lxdkxaswgj.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 19:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxdkxaswgj"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg="
+        }
+      ]
+    },
+    {
+      "Route": "Image/20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\20a17170-bfeb-4af8-9071-e7b36e9d9128_Screenshot 2025-07-13 204630.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 19:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg="
+        }
+      ]
+    },
+    {
+      "Route": "Image/4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro.940ktek95b.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 01:26:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "940ktek95b"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo="
+        }
+      ]
+    },
+    {
+      "Route": "Image/4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\4b3d2b11-4fd6-4a7d-9e04-3082d0dca53a_Programming-bro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Jul 2025 01:26:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo="
+        }
+      ]
+    },
+    {
+      "Route": "Image/4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630.lxdkxaswgj.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 14:40:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxdkxaswgj"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg="
+        }
+      ]
+    },
+    {
+      "Route": "Image/4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\4ca82399-6cab-4893-a066-94abb27ae3d6_Screenshot 2025-07-13 204630.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 14:40:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg="
+        }
+      ]
+    },
+    {
+      "Route": "Image/739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852.6ccsj4fbge.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 14:43:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ccsj4fbge"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI="
+        }
+      ]
+    },
+    {
+      "Route": "Image/739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\739d456b-8b0e-473e-86dc-ae9622cc13a5_Screenshot 2025-07-13 204852.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 14:43:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI="
+        }
+      ]
+    },
+    {
+      "Route": "Image/7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852.6ccsj4fbge.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 21:15:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ccsj4fbge"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI="
+        }
+      ]
+    },
+    {
+      "Route": "Image/7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\7b9dac26-04cd-4c6c-b680-7f3a6bca92ab_Screenshot 2025-07-13 204852.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 21:15:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI="
+        }
+      ]
+    },
+    {
+      "Route": "Image/a181977c-1954-4333-9611-66de4181f434_OIP.83ueplwi1o.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\a181977c-1954-4333-9611-66de4181f434_OIP.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dye+KOB80FuUngBBwSHx5uw5EPyOJt/q7D6ISFy/d0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 02:23:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "83ueplwi1o"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/a181977c-1954-4333-9611-66de4181f434_OIP.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dye+KOB80FuUngBBwSHx5uw5EPyOJt/q7D6ISFy/d0="
+        }
+      ]
+    },
+    {
+      "Route": "Image/a181977c-1954-4333-9611-66de4181f434_OIP.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\a181977c-1954-4333-9611-66de4181f434_OIP.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dye+KOB80FuUngBBwSHx5uw5EPyOJt/q7D6ISFy/d0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Jul 2025 02:23:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dye+KOB80FuUngBBwSHx5uw5EPyOJt/q7D6ISFy/d0="
+        }
+      ]
+    },
+    {
+      "Route": "Image/b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro.940ktek95b.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 16:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "940ktek95b"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo="
+        }
+      ]
+    },
+    {
+      "Route": "Image/b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\b5323abf-048e-456a-94bd-0ac28edd2927_Programming-bro.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Jul 2025 16:52:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mfJY6+wOAWFEOFRkTZJ+Lmj7x0XDasgsmMp1lgGgNNo="
+        }
+      ]
+    },
+    {
+      "Route": "Image/c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630.lxdkxaswgj.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 03:34:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxdkxaswgj"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg="
+        }
+      ]
+    },
+    {
+      "Route": "Image/c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\c5f7d9bf-d945-4272-a231-9c8be8081f3d_Screenshot 2025-07-13 204630.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Jul 2025 03:34:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iWzggQQwvYRJMG3qE/g0viTWNILa3E3YfN+9rMVcaCg="
+        }
+      ]
+    },
+    {
+      "Route": "Image/e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852.6ccsj4fbge.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 22:40:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ccsj4fbge"
+        },
+        {
+          "Name": "label",
+          "Value": "Image/e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI="
+        }
+      ]
+    },
+    {
+      "Route": "Image/e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852.png",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Image\\e36802ae-88ea-4972-9d28-a293a1d8cd5a_Screenshot 2025-07-13 204852.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14288"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Jul 2025 22:40:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ip8z/TMJcKCyVDpxHhJ8hQzZbERZf8464ST74X9H7uI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/030eb132-d104-4b7c-8b14-2f415ac616cd.7xoyr2xgpw.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\030eb132-d104-4b7c-8b14-2f415ac616cd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwXgxKiRGz1RLm95xpn4LiiCh+I5MUvOV41djITmuDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 02:53:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7xoyr2xgpw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/030eb132-d104-4b7c-8b14-2f415ac616cd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwXgxKiRGz1RLm95xpn4LiiCh+I5MUvOV41djITmuDY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/030eb132-d104-4b7c-8b14-2f415ac616cd.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\030eb132-d104-4b7c-8b14-2f415ac616cd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwXgxKiRGz1RLm95xpn4LiiCh+I5MUvOV41djITmuDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 02:53:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwXgxKiRGz1RLm95xpn4LiiCh+I5MUvOV41djITmuDY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6827a70b-4cb1-4689-bf1d-086c98ee7b99.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\6827a70b-4cb1-4689-bf1d-086c98ee7b99.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4559962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0s/FJ3BWZGV4NK4OgMR49Rnd013uxpIZGstwPH8wIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 00:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0s/FJ3BWZGV4NK4OgMR49Rnd013uxpIZGstwPH8wIE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6827a70b-4cb1-4689-bf1d-086c98ee7b99.l9bzh84en1.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\6827a70b-4cb1-4689-bf1d-086c98ee7b99.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4559962"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0s/FJ3BWZGV4NK4OgMR49Rnd013uxpIZGstwPH8wIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 00:56:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l9bzh84en1"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/6827a70b-4cb1-4689-bf1d-086c98ee7b99.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0s/FJ3BWZGV4NK4OgMR49Rnd013uxpIZGstwPH8wIE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/7563be48-8c89-4aab-a950-1baf015a6d8b.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\7563be48-8c89-4aab-a950-1baf015a6d8b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "481888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"om6Va6J2M+D1qGIbSFWKACJds/hgUGGVwxaII0RdjZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 03:31:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-om6Va6J2M+D1qGIbSFWKACJds/hgUGGVwxaII0RdjZA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/7563be48-8c89-4aab-a950-1baf015a6d8b.q9g8lemowl.jpg",
+      "AssetFile": "C:\\Courses\\Web Devolpment\\.NET\\Projects .net\\Medical\\HospitalSystem\\Hospital\\wwwroot\\Images\\7563be48-8c89-4aab-a950-1baf015a6d8b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "481888"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"om6Va6J2M+D1qGIbSFWKACJds/hgUGGVwxaII0RdjZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 03:31:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q9g8lemowl"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/7563be48-8c89-4aab-a950-1baf015a6d8b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-om6Va6J2M+D1qGIbSFWKACJds/hgUGGVwxaII0RdjZA="
+        }
+      ]
+    }
+  ]
+}
