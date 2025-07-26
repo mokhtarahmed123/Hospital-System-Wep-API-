@@ -90,5 +90,13 @@ Feel free to fork, open issues, or suggest improvements. PRs are welcome!
 ---
 
 ## 📄 License
+![API5 png](https://github.com/user-attachments/assets/92787bf7-751a-4276-a4b6-29e8b1599605)
 
 This project is licensed under the MIT License.
+![API png](https://github.com/user-attachments/assets/9fa82436-ed1f-4919-8376-03e24b5a7aa4)
+![API2 PNG](https://github.com/user-attachments/assets/a408050c-c786-4464-8f00-87a815f23180)
+![API3 png](https://github.com/user-attachments/assets/4ab31cbb-0660-4732-844e-989fb5c6fd2c)
+![API6 png](https://github.com/user-attachments/assets/ebe0dd60-818d-4a8e-87f2-f4ba43ef33ba)
+
+![API4 png](https://github.com/user-attachments/assets/2582d0e9-af8c-4799-8791-fd7e1fcbe9d6)
+
