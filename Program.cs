@@ -2,25 +2,14 @@ using HospitalAPI.Hospital.API.Middleware;
 using HospitalAPI.Hospital.Application;
 using HospitalAPI.Hospital.Application.Services.Accountant;
 using HospitalAPI.Hospital.Application.Services.Appointment;
-//using HospitalAPI.Hospital.Application.Services.Department;
-//using HospitalAPI.Hospital.Application.Services.Doctor;
 using HospitalAPI.Hospital.Application.Services.Inpatient_Admission;
 using HospitalAPI.Hospital.Application.Services.Laboratory;
-//using HospitalAPI.Hospital.Application.Services.Patient;
 using HospitalAPI.Hospital.Application.Services.Room;
 using HospitalAPI.Hospital.Application.Services.Staff;
 using HospitalAPI.Hospital.Domain;
 using HospitalAPI.Hospital.Domain.Models;
 using HospitalAPI.Hospital.Infrastructure;
 using HospitalAPI.Hospital.Infrastructure.Data;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Accountant;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Appointment;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Billing;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Department;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Doctors;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Inpatient_Admission;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Laboratory;
-//using HospitalAPI.Hospital.Infrastructure.Repositories.Patient;
 using HospitalAPI.Hospital.Infrastructure.Repositories.Room;
 using HospitalAPI.Hospital.Infrastructure.Repositories.Staff;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -124,14 +113,14 @@ namespace HospitalAPI
             #region Swagger Setting
             builder.Services.AddSwaggerGen(swagger =>
             {
-                //This is to generate the Default UI of Swagger Documentation    
+                //ThisÂ isÂ toÂ generateÂ theÂ DefaultÂ UIÂ ofÂ SwaggerÂ DocumentationÂ Â Â Â 
                 swagger.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
                     Title = "Hospital System",
                     Description = " Hospital"
                 });
-                // To Enable authorization using Swagger (JWT)    
+                //Â ToÂ EnableÂ authorizationÂ usingÂ SwaggerÂ (JWT)Â Â Â Â 
                 swagger.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
                 {
                     Name = "Authorization",
@@ -139,7 +128,7 @@ namespace HospitalAPI
                     Scheme = "Bearer",
                     BearerFormat = "JWT",
                     In = ParameterLocation.Header,
-                    Description = "Enter 'Bearer' [space] and then your valid token in the text input below.\r\n\r\nExample: \"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9\"",
+                    Description = "EnterÂ 'Bearer'Â [space]Â andÂ thenÂ yourÂ validÂ tokenÂ inÂ theÂ textÂ inputÂ below.\r\n\r\nExample:Â \"BearerÂ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9\"",
                 });
                 swagger.AddSecurityRequirement(new OpenApiSecurityRequirement
                 {
@@ -214,3 +203,4 @@ namespace HospitalAPI
         }
     }
 }
+
